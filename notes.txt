@@ -1,0 +1,7 @@
+Notes on Swing
+
+Tutorial: https://www.tutorialspoint.com/swing/swing_controls.htm
+ZetCode is probably the best: https://zetcode.com/javaswing/firstprograms/
+
+Current progress:
+Third example in: https://zetcode.com/javaswing/menusandtoolbars/
